@@ -1,0 +1,8 @@
+ 
+robin@PC:~$ ./wiki-analysis.py frwiki-latest-pages-meta-current.xml                                                                                                       
+Lines: 222669441
+Execution time: 10033.887793064117 secondes                                                                                                                                                  
+Articles: 3714740       Lines: 222669441        Number characters: 9217905119   Different characters: 27605                                                                                  
+
+Results in: RESULT-frwiki-latest-pages-meta-current.xml.txt                                                                                                                                  
+robin@PC:~$
