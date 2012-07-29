@@ -45,3 +45,13 @@ Webcam HTTP
 
 Webcam http is a small program that shows how to stream webcam in http. It is articulated around VideoCapture (I should change to pygame or whatever), and SimpleHTTPServer.
 index.html just include a img tag, and once the script is launched it will regularily take pictures on the webcam and change the src address of the image in index.html.
+
+Keylogger
+---------
+
+This program as the name let suppose is a fully functional keylogger for Windows that use the pyhook module. The purpose of this software is to show that we can make a keylogger in python in less than 30 lines of code.
+
+Mouse tracker
+-------------
+
+Mouse tracker is also a small proof of concept that shows how to track the mouse movement clicks etc. As keylogger it use a pyhook and so works only for windows.
