@@ -39,3 +39,9 @@ a text contains much more characters, accent, punctuation and so on which are no
 So I have decided to create my own one and to get a good text basis what is better than Wikipedia :p ?
 So this script use a wikipedia dump read the hole file and count the occurence of each characters.
 More informations on this article:  http://robindavid.comli.com/wikipedia-frequency-analysis/
+
+Webcam HTTP
+-----------
+
+Webcam http is a small program that shows how to stream webcam in http. It is articulated around VideoCapture (I should change to pygame or whatever), and SimpleHTTPServer.
+index.html just include a img tag, and once the script is launched it will regularily take pictures on the webcam and change the src address of the image in index.html.
