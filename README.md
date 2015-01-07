@@ -8,7 +8,12 @@ OpenCV colortracking
 
 This small program shows how to track a specific color on a webcam using OpenCV.
 In this example the color tracked is Yellow.
-Article: http://www.robindavid.fr/opencv-tutorial/colortracking-with-opencv.html
+Blog post: http://www.robindavid.fr/opencv-tutorial/colortracking-with-opencv.html
+
+LSB Watermarking
+----------------
+
+This script allow you to draw with the mouse whatever you want on an image, it will only be written in the LSB bit of the image. It can be a signature or anything else.
 
 SMSListener
 -----------
